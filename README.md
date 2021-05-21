@@ -1,8 +1,8 @@
 # Matvey Boltach
 
-## Young front End developer 💻
+## Young front-end developer 💻
 
-### Russia, Saint-Petersburg :ru:
+### :ru: Russia, Saint-Petersburg :ru:
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
