@@ -1,4 +1,4 @@
-### 💻 Junior front-end developer 💻
+# Junior front-end developer 💻
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
