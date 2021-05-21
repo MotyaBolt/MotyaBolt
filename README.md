@@ -1,4 +1,4 @@
-# Junior front-end developer 💻
+# Matvey Boltach 😎
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
