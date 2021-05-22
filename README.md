@@ -1,6 +1,6 @@
 <h1>👋 Hello there!</h1>
 
-<h2>Welcome to my page!  I'm Matvey,  Junior front-end developer 💻</h2>
+<h3>Welcome to my page!  I'm Matvey,  Junior front-end developer 💻</h3>
 
 <h3>:ru: Russia, Saint-Petersburg :ru:</h3>
 
