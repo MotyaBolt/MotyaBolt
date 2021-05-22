@@ -21,8 +21,9 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h4The most interesting of my projects:</h4>
+<h4>The most interesting of my projects:</h4>
   
 <a href="" target="_blank">Pomodoro Timer</a>
-  <a href="" target="_blank">Wheather App</a>
+  
+<a href="" target="_blank">Weather App</a>
   
