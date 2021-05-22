@@ -23,7 +23,7 @@
 
 <h4>The most interesting of my projects:</h4>
   
-<a href="" target="_blank">Pomodoro Timer</a>
+<a href="new-pomodoro-clock.herokuapp.com/" target="_blank">Pomodoro Timer</a>
   
 <a href="" target="_blank">Weather App</a>
   
