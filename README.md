@@ -23,8 +23,13 @@
 
   <h4>The most interesting of my projects:</h4>
  
-  <ul></ul>
-  <a href="https://weather-app-myweather.herokuapp.com/" target="_blank">Pomodoro Timer</a>
+  <ul>
+    <li><a href="https://weather-app-myweather.herokuapp.com/" target="_blank">Weather App</a></li>
+    <i>A site that allows you to watch the weather forecast</i>
+    <li><a href="https://new-pomodoro-clock.herokuapp.com/" target="_blank">Pomodoro Timer</a></li>
+    <i>Simple and comfortable Pomodoro Timer
+  </ul>
+
   
   <a href="" target="_blank">Weather App</a>
   
