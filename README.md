@@ -24,11 +24,11 @@
   <h4>The most interesting of my projects:</h4>
  
   <ul>
-    <li><a href="https://weather-app-myweather.herokuapp.com/" target="_blank">Weather App</a></li>
+    <li><a href="https://weather-app-myweather.herokuapp.com/" >Weather App</a></li>
     <i>A site that allows you to watch the weather forecast</i>
-    <li><a href="https://new-pomodoro-clock.herokuapp.com/" target="_blank">Pomodoro Timer</a></li>
+    <li><a href="https://new-pomodoro-clock.herokuapp.com/" >Pomodoro Timer</a></li>
     <i>Simple and comfortable Pomodoro Timer</i>
-     <li><a href="motyabolt.github.io/quiz-builder-app/" target="_blank">Quiz-Builder App</a></li>
+     <li><a href="https://motyabolt.github.io/Quiz-Builder-App/" >Quiz-Builder App</a></li>
     <i>An application that allows you to create quizes</i>
   </ul>
 
