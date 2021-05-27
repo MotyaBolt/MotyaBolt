@@ -29,7 +29,7 @@
     <li><a href="https://new-pomodoro-clock.herokuapp.com/" >Pomodoro Timer</a></li>
     <i>Simple and comfortable Pomodoro Timer</i>
      <li><a href="https://motyabolt.github.io/Quiz-Builder-App/" >Quiz-Builder App</a></li>
-    <i>An application that allows you to create quizes</i>
+    <i>An application that allows you to create quizzes</i>
   </ul>
 
   
