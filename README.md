@@ -2,8 +2,6 @@
 
   <h4>Welcome to my page!  I'm Matvey, Front-end developer 💻</h4>
 
-  <h4>:ru: Russia, Saint-Petersburg :ru:</h4>
-
   <h4>Things I code with</h4>
   <p>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
