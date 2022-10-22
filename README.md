@@ -22,11 +22,9 @@
  
   <ul>
     <li><a href="https://weather-app-myweather.herokuapp.com/" >Weather App</a></li>
-    <i>A site that allows you to watch the weather forecast</i>
+    <i>An application that visualizes weather conditions</i>
     <li><a href="https://new-pomodoro-clock.herokuapp.com/" >Pomodoro Timer</a></li>
-    <i>Simple and comfortable Pomodoro Timer</i>
-     <li><a href="https://motyabolt.github.io/Quiz-Builder-App/" >Quiz-Builder App</a></li>
-    <i>An application that allows you to create quizzes</i>
+    <i>A time management application based on the pomodoro technique</i>
   </ul>
 
   
