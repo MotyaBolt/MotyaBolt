@@ -23,7 +23,7 @@
   <ul>
     <li><a href="motyabolt.github.io/Weather-App-React/" >Weather App</a></li>
     <i>An application that visualizes weather conditions</i>
-    <li><a href="https://new-pomodoro-clock.herokuapp.com/" >Pomodoro Timer</a></li>
+    <li><a href="motyabolt.github.io/Pomodoro-Clock-React/" >Pomodoro Timer</a></li>
     <i>A time management application based on the pomodoro technique</i>
   </ul>
 
