@@ -21,9 +21,9 @@
   <h4>The most interesting of my projects:</h4>
  
   <ul>
-    <li><a target="_blank" href="motyabolt.github.io/Weather-App-React/" >Weather App</a></li>
+    <li><a href="https://motyabolt.github.io/Weather-App-React/" >Weather App</a></li>
     <i>An application that visualizes weather conditions</i>
-    <li><a target="_blank" href="motyabolt.github.io/Pomodoro-Clock-React/" >Pomodoro Timer</a></li>
+    <li><a href="https://motyabolt.github.io/Pomodoro-Clock-React/" >Pomodoro Timer</a></li>
     <i>A time management application based on the pomodoro technique</i>
   </ul>
 
